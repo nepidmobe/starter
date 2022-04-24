@@ -1,0 +1,3 @@
+--for testing we use ethereal or mail trap as transporter service
+--for production we use send grid and mail gun.
+--here we use ethereal and then sendgrid
